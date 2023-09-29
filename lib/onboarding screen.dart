@@ -73,11 +73,7 @@ class _BuffetLocationScreenState extends State<BuffetLocationScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Lottie.asset(
-              'assets/images/coffee.json',
-              width: 200,
-              height: 200,
-            ),
+
             SizedBox(height: 20),
             Text(
               "Mohamed Nazmy",
